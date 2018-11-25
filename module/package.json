@@ -1,0 +1,25 @@
+{
+  "name": "ohaithere",
+  "version": "1.0.0",
+  "description": "a node module",
+  "main": "./lig/ohaithere.js",
+  "scripts": {
+    "test": "node ./test/ohaithere.js"
+  },
+  "bin": "./bin/ohaithere.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dsscl/node.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "ohaithere"
+  ],
+  "author": "dsscl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dsscl/node/issues"
+  },
+  "homepage": "https://github.com/dsscl/node#readme"
+}

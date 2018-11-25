@@ -1,0 +1,4 @@
+## window命令 sort < name.txt > sorted_name.txt得到
+Bailey, Bill
+Carr, Jimmy
+Smith, Arthur
